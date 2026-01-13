@@ -7,7 +7,7 @@ The Problem
 -68% experience emotional isolation when away from family
 -Rising mental health crisis among students in competitive academic settings
 
-The Solution
+#The Solution
 PERRY provides:
 
  -AI-powered emotion detection from journal entries (28 emotions)
@@ -17,7 +17,7 @@ PERRY provides:
  -Intelligent schedule management with auto-notifications
  -Comprehensive analytics tracking mental health + productivity
 
-  Features
+ # Features
 
 -Journal Analyzer: AI-powered emotion detection using RoBERTa
 -Talk to Perry: Mental health chatbot with sentiment analysis
@@ -34,23 +34,23 @@ PERRY provides:
 -Camera images analyzed and immediately deleted
 -User has full control over monitoring features
 
- Administrator Privileges Required
+ #Administrator Privileges Required
 Website blocking requires running as administrator:
 bash# Windows (Right-click CMD → "Run as administrator")
 streamlit run app2.py
 
-# macOS/Linux
+ macOS/Linux
 sudo streamlit run app2.py
 App works without admin, but website blocking will be disabled.
 
-Tech Stack
+#Tech Stack
 -Core Technologies
 
 Frontend: Streamlit (Python web framework)
 Backend: Python 3.8+
 Authentication: Custom JWT-like session management
 
--AI/ML Models
+#AI/ML Models
 
 Text Emotion: RoBERTa (Hugging Face Transformers)
 Model: emotion_roberta_model (fine-tuned on GoEmotions dataset)
@@ -79,7 +79,7 @@ Pandas + NumPy (data processing)
  Disclaimer
 Educational project for personal wellness tracking. For serious mental health concerns, consult qualified healthcare professionals.
 
-Screenshots:
+#Screenshots:
 <img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/fc330140-9a7a-442e-9cc2-a4f3bcd977cb" />
 <img width="1892" height="909" alt="image" src="https://github.com/user-attachments/assets/9331be4d-b404-4d13-a85a-eda7289a1005" />
 <img width="1913" height="909" alt="image" src="https://github.com/user-attachments/assets/3372df56-030b-48a5-8e61-392603983f2e" />
