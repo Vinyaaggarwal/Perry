@@ -1,0 +1,407 @@
+timestamp,date,time,activity_type,activity_details,duration_seconds,success,metadata
+2025-11-16T20:41:08.672014,2025-11-16,20:41:08,app_opened,App opened at 20:41:08,0,True,
+2025-11-16T20:45:10.602368,2025-11-16,20:45:10,app_opened,App opened at 20:45:10,0,True,
+2025-11-16T20:45:21.563455,2025-11-16,20:45:21,page_changed,From 🏠 Dashboard Overview to ⏱️ Focus Timer,0,True,
+2025-11-16T20:45:34.984177,2025-11-16,20:45:34,page_changed,From ⏱️ Focus Timer to 📅 Schedule Manager,0,True,
+2025-11-16T20:48:40.988842,2025-11-16,20:48:40,app_opened,App opened at 20:48:40,0,True,
+2025-11-16T20:48:56.076984,2025-11-16,20:48:56,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-16T20:49:14.538377,2025-11-16,20:49:14,page_changed,From 📅 Schedule Manager to ⏱️ Focus Timer,0,True,
+2025-11-16T20:50:54.933623,2025-11-16,20:50:54,app_opened,App opened at 20:50:54,0,True,
+2025-11-16T20:51:02.375748,2025-11-16,20:51:02,page_changed,From 🏠 Dashboard Overview to 📊 Analytics & Insights,0,True,
+2025-11-16T20:51:06.372266,2025-11-16,20:51:06,page_changed,From 📊 Analytics & Insights to 📅 Schedule Manager,0,True,
+2025-11-16T20:51:21.511471,2025-11-16,20:51:21,schedule_created,Created: ossp,0,True,"{""schedule_id"": ""schedule_0_1763306481.511434"", ""category"": ""Study"", ""priority"": ""Medium"", ""notifications_enabled"": true}"
+2025-11-16T20:51:46.381474,2025-11-16,20:51:46,page_changed,From 📅 Schedule Manager to ⏱️ Focus Timer,0,True,
+2025-11-16T20:56:30.506833,2025-11-16,20:56:30,app_opened,App opened at 20:56:30,0,True,
+2025-11-16T20:56:39.432469,2025-11-16,20:56:39,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-16T20:57:58.929513,2025-11-16,20:57:58,app_opened,App opened at 20:57:58,0,True,
+2025-11-16T20:58:07.019878,2025-11-16,20:58:07,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-16T20:58:28.610940,2025-11-16,20:58:28,schedule_created,Created: ossp,0,True,"{""schedule_id"": ""schedule_0_1763306908.610906"", ""category"": ""Work"", ""priority"": ""Medium"", ""notifications_enabled"": true}"
+2025-11-16T20:58:33.097210,2025-11-16,20:58:33,page_changed,From 📅 Schedule Manager to ⏱️ Focus Timer,0,True,
+2025-11-16T20:59:24.434879,2025-11-16,20:59:24,blocked_site_added,Added hotstar.com to blocklist,0,True,
+2025-11-16T20:59:54.354709,2025-11-16,20:59:54,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": true, ""camera_enabled"": true}"
+2025-11-16T20:59:54.393203,2025-11-16,20:59:54,website_blocking_enabled,Blocked 20 sites,0,True,
+2025-11-16T20:59:56.412025,2025-11-16,20:59:56,camera_monitoring_started,Session: session_1763306996.401003,0,True,
+2025-11-16T20:59:56.413935,2025-11-16,20:59:56,camera_monitoring_started,Session: session_1763306996.401003,0,True,
+2025-11-16T21:01:29.526216,2025-11-16,21:01:29,page_changed,From ⏱️ Focus Timer to 📅 Schedule Manager,0,True,
+2025-11-16T21:08:13.622269,2025-11-16,21:08:13,app_opened,App opened at 21:08:13,0,True,
+2025-11-16T21:08:39.114439,2025-11-16,21:08:39,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-16T21:10:19.070947,2025-11-16,21:10:19,app_opened,App opened at 21:10:19,0,True,
+2025-11-16T21:10:48.608566,2025-11-16,21:10:48,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-16T21:10:55.348637,2025-11-16,21:10:55,page_changed,From 📅 Schedule Manager to 🏠 Dashboard Overview,0,True,
+2025-11-16T21:11:00.651108,2025-11-16,21:11:00,page_changed,From 🏠 Dashboard Overview to ⏱️ Focus Timer,0,True,
+2025-11-16T21:11:09.064089,2025-11-16,21:11:09,page_changed,From ⏱️ Focus Timer to 📝 Journal Analyzer,0,True,
+2025-11-16T21:11:15.181195,2025-11-16,21:11:15,page_changed,From 📝 Journal Analyzer to 📅 Schedule Manager,0,True,
+2025-11-16T21:18:05.303281,2025-11-16,21:18:05,app_opened,App opened at 21:18:05,0,True,
+2025-11-16T21:19:26.284450,2025-11-16,21:19:26,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-16T21:19:44.800878,2025-11-16,21:19:44,schedule_created,Created: ossp,0,True,"{""schedule_id"": ""schedule_0_1763308184.800832"", ""category"": ""Work"", ""priority"": ""Medium"", ""start_time"": ""21:30""}"
+2025-11-16T21:29:49.240855,2025-11-16,21:29:49,page_changed,From 📅 Schedule Manager to 🏠 Dashboard Overview,0,True,
+2025-11-16T21:30:06.080017,2025-11-16,21:30:06,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-16T21:30:19.579465,2025-11-16,21:30:19,page_changed,From 📅 Schedule Manager to 🏠 Dashboard Overview,0,True,
+2025-11-16T21:32:40.797261,2025-11-16,21:32:40,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-16T21:38:26.060186,2025-11-16,21:38:26,app_opened,App opened at 21:38:26,0,True,
+2025-11-16T21:38:32.528952,2025-11-16,21:38:32,page_changed,From 📅 Schedule Manager to ⏱️ Focus Timer,0,True,
+2025-11-16T21:58:28.235741,2025-11-16,21:58:28,app_opened,App opened at 21:58:28,0,True,
+2025-11-16T21:58:37.975168,2025-11-16,21:58:37,page_changed,From 🏠 Dashboard Overview to ⏱️ Focus Timer,0,True,
+2025-11-16T21:58:41.740377,2025-11-16,21:58:41,page_changed,From ⏱️ Focus Timer to 📅 Schedule Manager,0,True,
+2025-11-16T21:59:27.039353,2025-11-16,21:59:27,app_opened,App opened at 21:59:27,0,True,
+2025-11-16T22:00:15.795145,2025-11-16,22:00:15,page_changed,From 🏠 Dashboard Overview to ⏱️ Focus Timer,0,True,
+2025-11-16T22:00:30.809106,2025-11-16,22:00:30,page_changed,From ⏱️ Focus Timer to 📅 Schedule Manager,0,True,
+2025-11-16T22:00:50.073765,2025-11-16,22:00:50,schedule_created,Created: ossp,0,True,"{""schedule_id"": ""schedule_0_1763310650.073742"", ""category"": ""Study""}"
+2025-11-16T22:33:23.402578,2025-11-16,22:33:23,schedule_missed,Missed >10min: ossp,0,True,"{""schedule_id"": ""schedule_0_1763310650.073742"", ""time_missed"": 18}"
+2025-11-16T22:33:23.527691,2025-11-16,22:33:23,blocking_enabled_by_schedule,Auto-blocked for: ossp,0,True,"{""schedule_id"": ""schedule_0_1763310650.073742"", ""sites_blocked"": 18}"
+2025-11-16T22:42:43.469596,2025-11-16,22:42:43,app_opened,App opened at 22:42:43,0,True,
+2025-11-16T22:43:29.443655,2025-11-16,22:43:29,page_changed,From 🏠 Dashboard Overview to 📝 Journal Analyzer,0,True,
+2025-11-16T22:43:33.765577,2025-11-16,22:43:33,page_changed,From 📝 Journal Analyzer to ⏱️ Focus Timer,0,True,
+2025-11-16T22:43:51.876503,2025-11-16,22:43:51,page_changed,From ⏱️ Focus Timer to 📅 Schedule Manager,0,True,
+2025-11-16T22:44:08.165118,2025-11-16,22:44:08,schedule_created,Created: ossp,0,True,"{""schedule_id"": ""schedule_0_1763313248.164572"", ""category"": ""Study""}"
+2025-11-16T22:57:50.488967,2025-11-16,22:57:50,app_opened,App opened at 22:57:50,0,True,
+2025-11-16T22:58:07.272476,2025-11-16,22:58:07,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-16T23:04:46.517905,2025-11-16,23:04:46,app_opened,App opened at 23:04:46,0,True,
+2025-11-16T23:06:13.644650,2025-11-16,23:06:13,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-16T23:11:04.203113,2025-11-16,23:11:04,app_opened,App opened at 23:11:04,0,True,
+2025-11-16T23:11:15.809028,2025-11-16,23:11:15,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-16T23:11:23.507141,2025-11-16,23:11:23,schedule_created,Created: jbk,0,True,"{""schedule_id"": ""schedule_0_1763314883.507098"", ""category"": ""Work""}"
+2025-11-16T23:12:29.910094,2025-11-16,23:12:29,app_opened,App opened at 23:12:29,0,True,
+2025-11-16T23:12:34.911985,2025-11-16,23:12:34,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-16T23:12:50.030997,2025-11-16,23:12:50,schedule_created,Created: ossp,0,True,"{""schedule_id"": ""schedule_0_1763314970.030951"", ""category"": ""Work""}"
+2025-11-16T23:15:47.596897,2025-11-16,23:15:47,notification_sent,Start notification: ossp,0,True,"{""schedule_id"": ""schedule_0_1763314970.030951""}"
+2025-11-16T23:20:30.201748,2025-11-16,23:20:30,schedule_missed,Missed 5min: ossp,0,True,"{""schedule_id"": ""schedule_0_1763314970.030951""}"
+2025-11-16T23:22:45.360875,2025-11-16,23:22:45,app_opened,App opened at 23:22:45,0,True,
+2025-11-16T23:22:49.527782,2025-11-16,23:22:49,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-16T23:23:44.278292,2025-11-16,23:23:44,schedule_created,Created: oss,0,True,"{""schedule_id"": ""schedule_0_1763315624.278266"", ""category"": ""Work""}"
+2025-11-16T23:24:58.927380,2025-11-16,23:24:58,notification_sent,5min warning: oss,0,True,"{""schedule_id"": ""schedule_0_1763315624.278266""}"
+2025-11-16T23:25:40.339778,2025-11-16,23:25:40,page_changed,From 📅 Schedule Manager to ⏱️ Focus Timer,0,True,
+2025-11-16T23:25:47.313160,2025-11-16,23:25:47,page_changed,From ⏱️ Focus Timer to 📝 Journal Analyzer,0,True,
+2025-11-16T23:25:51.872150,2025-11-16,23:25:51,page_changed,From 📝 Journal Analyzer to 📊 Analytics & Insights,0,True,
+2025-11-16T23:25:55.109945,2025-11-16,23:25:55,page_changed,From 📊 Analytics & Insights to 📈 Productivity Report,0,True,
+2025-11-16T23:26:47.979617,2025-11-16,23:26:47,page_changed,From 📈 Productivity Report to 📅 Schedule Manager,0,True,
+2025-11-16T23:41:19.347669,2025-11-16,23:41:19,app_opened,App opened at 23:41:19,0,True,
+2025-11-16T23:41:24.249437,2025-11-16,23:41:24,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-16T23:41:32.602302,2025-11-16,23:41:32,page_changed,From 📅 Schedule Manager to ⏱️ Focus Timer,0,True,
+2025-11-16T23:41:38.542511,2025-11-16,23:41:38,page_changed,From ⏱️ Focus Timer to 📅 Schedule Manager,0,True,
+2025-11-16T23:42:30.050383,2025-11-16,23:42:30,app_opened,App opened at 23:42:30,0,True,
+2025-11-16T23:42:37.131532,2025-11-16,23:42:37,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-16T23:47:33.903945,2025-11-16,23:47:33,schedule_created,Created: jk nl ,0,True,"{""schedule_id"": ""schedule_0_1763317053.89943"", ""category"": ""Work""}"
+2025-11-16T23:47:36.455911,2025-11-16,23:47:36,schedule_missed,Missed >10min: jk nl ,0,True,"{""schedule_id"": ""schedule_0_1763317053.89943"", ""time_missed"": 1427}"
+2025-11-16T23:47:36.566564,2025-11-16,23:47:36,blocking_enabled_by_schedule,Auto-blocked for: jk nl ,0,True,"{""schedule_id"": ""schedule_0_1763317053.89943"", ""sites_blocked"": 18}"
+2025-11-16T23:54:11.357019,2025-11-16,23:54:11,page_changed,From 📅 Schedule Manager to ⏱️ Focus Timer,0,True,
+2025-11-16T23:54:21.816181,2025-11-16,23:54:21,page_changed,From ⏱️ Focus Timer to 📝 Journal Analyzer,0,True,
+2025-11-16T23:55:01.068641,2025-11-16,23:55:01,page_changed,From 📝 Journal Analyzer to ⏱️ Focus Timer,0,True,
+2025-11-16T23:55:43.722202,2025-11-16,23:55:43,page_changed,From ⏱️ Focus Timer to 📅 Schedule Manager,0,True,
+2025-11-16T23:56:27.464730,2025-11-16,23:56:27,app_opened,App opened at 23:56:27,0,True,
+2025-11-17T00:05:10.536019,2025-11-17,00:05:10,app_opened,App opened at 00:05:10,0,True,
+2025-11-17T00:05:20.462148,2025-11-17,00:05:20,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-17T00:05:31.725980,2025-11-17,00:05:31,schedule_created,"Created: hkjb,",0,True,"{""schedule_id"": ""schedule_0_1763318131.723309"", ""category"": ""Work""}"
+2025-11-17T10:05:51.261975,2025-11-17,10:05:51,app_opened,App opened at 10:05:51,0,True,
+2025-11-17T10:06:04.634162,2025-11-17,10:06:04,page_changed,From 🏠 Dashboard Overview to ⏱️ Focus Timer,0,True,
+2025-11-17T10:11:05.932990,2025-11-17,10:11:05,page_changed,From ⏱️ Focus Timer to 📅 Schedule Manager,0,True,
+2025-11-17T10:12:16.435678,2025-11-17,10:12:16,page_changed,From 📅 Schedule Manager to 📊 Analytics & Insights,0,True,
+2025-11-17T10:12:22.826705,2025-11-17,10:12:22,page_changed,From 📊 Analytics & Insights to 📅 Schedule Manager,0,True,
+2025-11-17T10:16:32.321583,2025-11-17,10:16:32,page_changed,From 📅 Schedule Manager to 🏠 Dashboard Overview,0,True,
+2025-11-17T10:16:55.652563,2025-11-17,10:16:55,page_changed,From 🏠 Dashboard Overview to 📝 Journal Analyzer,0,True,
+2025-11-17T10:16:59.038164,2025-11-17,10:16:59,page_changed,From 📝 Journal Analyzer to 🏠 Dashboard Overview,0,True,
+2025-11-17T10:34:32.458150,2025-11-17,10:34:32,app_opened,App opened at 10:34:32,0,True,
+2025-11-17T10:34:46.526484,2025-11-17,10:34:46,page_changed,From 🏠 Dashboard Overview to ⏱ Focus Timer,0,True,
+2025-11-17T10:34:56.870771,2025-11-17,10:34:56,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": true, ""camera_enabled"": true}"
+2025-11-17T10:34:56.968579,2025-11-17,10:34:56,website_blocking_enabled,Blocked 18 sites,0,True,
+2025-11-17T10:38:08.065739,2025-11-17,10:38:08,app_opened,App opened at 10:38:08,0,True,
+2025-11-17T10:38:14.455710,2025-11-17,10:38:14,page_changed,From 🏠 Dashboard Overview to ⏱ Focus Timer,0,True,
+2025-11-17T10:38:20.697359,2025-11-17,10:38:20,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": false, ""camera_enabled"": true}"
+2025-11-17T10:38:20.713675,2025-11-17,10:38:20,camera_monitoring_started,Session: session_1763356100.6992,0,True,
+2025-11-17T10:38:20.717185,2025-11-17,10:38:20,camera_monitoring_started,Session: session_1763356100.6992,0,True,
+2025-11-17T10:39:07.284370,2025-11-17,10:39:07,focus_session_completed,Completed 0 min session,0,True,"{""duration"": 46, ""notes"": ""Focus session"", ""session_id"": ""session_1763356100.6992""}"
+2025-11-17T10:39:08.394198,2025-11-17,10:39:08,camera_monitoring_stopped,Session: session_1763356100.6992,0,True,
+2025-11-17T10:39:14.322135,2025-11-17,10:39:14,page_changed,From ⏱ Focus Timer to 📅 Schedule Manager,0,True,
+2025-11-17T10:39:18.493980,2025-11-17,10:39:18,page_changed,From 📅 Schedule Manager to 📊 Analytics & Insights,0,True,
+2025-11-17T10:39:38.026145,2025-11-17,10:39:38,page_changed,From 📊 Analytics & Insights to 🏠 Dashboard Overview,0,True,
+2025-11-17T10:42:42.708369,2025-11-17,10:42:42,app_opened,App opened at 10:42:42,0,True,
+2025-11-17T10:43:15.930157,2025-11-17,10:43:15,page_changed,From 🏠 Dashboard Overview to 📝 Journal Analyzer,0,True,
+2025-11-17T10:44:28.509605,2025-11-17,10:44:28,page_changed,From 📝 Journal Analyzer to ⏱ Focus Timer,0,True,
+2025-11-17T10:44:35.418603,2025-11-17,10:44:35,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": false, ""camera_enabled"": true}"
+2025-11-17T10:44:35.427318,2025-11-17,10:44:35,camera_monitoring_started,Session: session_1763356475.42086,0,True,
+2025-11-17T10:44:35.431142,2025-11-17,10:44:35,camera_monitoring_started,Session: session_1763356475.42086,0,True,
+2025-11-17T10:45:46.678746,2025-11-17,10:45:46,focus_session_completed,Completed 1 min session,0,True,"{""duration"": 71, ""notes"": ""Focus session"", ""session_id"": ""session_1763356475.42086""}"
+2025-11-17T10:45:48.693319,2025-11-17,10:45:48,camera_monitoring_stopped,Session: session_1763356475.42086,0,True,
+2025-11-17T10:59:07.526416,2025-11-17,10:59:07,app_opened,App opened at 10:59:07,0,True,
+2025-11-17T10:59:16.929822,2025-11-17,10:59:16,page_changed,From 🏠 Dashboard Overview to ⏱ Focus Timer,0,True,
+2025-11-17T10:59:22.223257,2025-11-17,10:59:22,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": false, ""camera_enabled"": true}"
+2025-11-17T11:00:46.271315,2025-11-17,11:00:46,focus_session_completed,Completed 1 min session,0,True,"{""duration"": 84, ""notes"": ""Focus session"", ""session_id"": ""session_1763357362.225871""}"
+2025-11-17T11:00:50.215387,2025-11-17,11:00:50,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": false, ""camera_enabled"": true}"
+2025-11-17T11:02:05.072884,2025-11-17,11:02:05,focus_session_cancelled,Cancelled after 1 min,0,True,"{""duration"": 74, ""notes"": ""Focus session""}"
+2025-11-17T11:02:09.210964,2025-11-17,11:02:09,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": false, ""camera_enabled"": true}"
+2025-11-17T11:03:29.009247,2025-11-17,11:03:29,app_opened,App opened at 11:03:29,0,True,
+2025-11-17T11:03:36.636951,2025-11-17,11:03:36,page_changed,From 🏠 Dashboard Overview to ⏱ Focus Timer,0,True,
+2025-11-17T11:03:42.785820,2025-11-17,11:03:42,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": false, ""camera_enabled"": true}"
+2025-11-17T11:03:49.811486,2025-11-17,11:03:49,focus_session_completed,Completed 0 min session,0,True,"{""duration"": 7, ""notes"": ""Focus session"", ""session_id"": ""session_1763357622.788334""}"
+2025-11-17T11:03:56.028786,2025-11-17,11:03:56,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": false, ""camera_enabled"": true}"
+2025-11-17T11:07:56.765058,2025-11-17,11:07:56,app_opened,App opened at 11:07:56,0,True,
+2025-11-17T11:18:55.712925,2025-11-17,11:18:55,app_opened,App opened at 11:18:55,0,True,
+2025-11-17T11:19:06.171847,2025-11-17,11:19:06,page_changed,From 🏠 Dashboard Overview to ⏱ Focus Timer,0,True,
+2025-11-17T11:19:14.753441,2025-11-17,11:19:14,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": false, ""camera_enabled"": true}"
+2025-11-17T11:19:14.765465,2025-11-17,11:19:14,camera_monitoring_started,Session: session_1763358554.756115,0,True,
+2025-11-17T11:19:14.769149,2025-11-17,11:19:14,camera_monitoring_started,Session: session_1763358554.756115,0,True,
+2025-11-17T11:23:48.479870,2025-11-17,11:23:48,focus_session_completed,Completed 4 min session,0,True,"{""duration"": 273, ""notes"": ""Focus session"", ""session_id"": ""session_1763358554.756115""}"
+2025-11-17T11:23:51.490811,2025-11-17,11:23:51,camera_monitoring_stopped,"Session: session_1763358554.756115, Captures: 37",0,True,
+2025-11-17T11:24:44.413162,2025-11-17,11:24:44,page_changed,From ⏱ Focus Timer to 📊 Analytics & Insights,0,True,
+2025-11-17T11:45:42.955822,2025-11-17,11:45:42,app_opened,App opened at 11:45:42,0,True,
+2025-11-17T11:45:53.884924,2025-11-17,11:45:53,page_changed,From 🏠 Dashboard Overview to ⏱ Focus Timer,0,True,
+2025-11-17T11:45:59.645627,2025-11-17,11:45:59,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": false, ""camera_enabled"": true}"
+2025-11-17T11:45:59.655613,2025-11-17,11:45:59,camera_monitoring_started,Session: session_1763360159.647672,0,True,
+2025-11-17T11:45:59.658204,2025-11-17,11:45:59,camera_monitoring_started,Session: session_1763360159.647672,0,True,
+2025-11-17T11:49:53.614550,2025-11-17,11:49:53,app_opened,App opened at 11:49:53,0,True,
+2025-11-17T11:50:03.901904,2025-11-17,11:50:03,page_changed,From 🏠 Dashboard Overview to ⏱ Focus Timer,0,True,
+2025-11-17T11:50:06.746287,2025-11-17,11:50:06,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": false, ""camera_enabled"": false}"
+2025-11-17T11:50:18.097128,2025-11-17,11:50:18,focus_session_completed,Completed 0 min session,0,True,"{""duration"": 11, ""notes"": ""Focus session"", ""session_id"": ""session_1763360406.747632""}"
+2025-11-17T11:54:48.085558,2025-11-17,11:54:48,app_opened,App opened at 11:54:48,0,True,
+2025-11-17T11:59:30.869938,2025-11-17,11:59:30,page_changed,From 🏠 Dashboard Overview to ⏱ Focus Timer,0,True,
+2025-11-17T11:59:37.022871,2025-11-17,11:59:37,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": false, ""camera_enabled"": true}"
+2025-11-17T11:59:37.032971,2025-11-17,11:59:37,camera_monitoring_started,Session: session_1763360977.024663,0,True,
+2025-11-17T11:59:37.036202,2025-11-17,11:59:37,camera_monitoring_started,Session: session_1763360977.024663,0,True,
+2025-11-17T12:02:28.033384,2025-11-17,12:02:28,focus_session_completed,Completed 2 min session,0,True,"{""duration"": 171, ""notes"": ""Focus session"", ""session_id"": ""session_1763360977.024663""}"
+2025-11-17T12:02:28.745883,2025-11-17,12:02:28,camera_monitoring_stopped,"Session: session_1763360977.024663, Captures: 25",0,True,
+2025-11-17T12:04:11.725644,2025-11-17,12:04:11,page_changed,From ⏱ Focus Timer to 📊 Analytics & Insights,0,True,
+2025-11-17T12:05:02.372751,2025-11-17,12:05:02,page_changed,From 📊 Analytics & Insights to ⏱ Focus Timer,0,True,
+2025-11-17T12:05:05.768273,2025-11-17,12:05:05,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": false, ""camera_enabled"": false}"
+2025-11-17T12:05:46.550733,2025-11-17,12:05:46,focus_session_completed,Completed 0 min session,0,True,"{""duration"": 40, ""notes"": ""Focus session"", ""session_id"": ""session_1763361305.770082""}"
+2025-11-17T12:05:50.317947,2025-11-17,12:05:50,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": true, ""camera_enabled"": true}"
+2025-11-17T12:05:50.427567,2025-11-17,12:05:50,website_blocking_enabled,Blocked 18 sites,0,True,
+2025-11-17T12:05:52.456638,2025-11-17,12:05:52,camera_monitoring_started,Session: session_1763361352.443146,0,True,
+2025-11-17T12:05:52.460537,2025-11-17,12:05:52,camera_monitoring_started,Session: session_1763361352.443146,0,True,
+2025-11-17T12:08:45.552822,2025-11-17,12:08:45,focus_session_completed,Completed 2 min session,0,True,"{""duration"": 173, ""notes"": ""Focus session"", ""session_id"": ""session_1763361352.443146""}"
+2025-11-17T12:08:48.562996,2025-11-17,12:08:48,camera_monitoring_stopped,"Session: session_1763361352.443146, Captures: 20",0,True,
+2025-11-17T12:08:50.665453,2025-11-17,12:08:50,website_blocking_disabled,Session completed - blocking disabled,0,True,
+2025-11-17T12:33:13.493116,2025-11-17,12:33:13,app_opened,App opened at 12:33:13,0,True,
+2025-11-17T12:39:58.729728,2025-11-17,12:39:58,page_changed,From 🏠 Dashboard Overview to ⏱ Focus Timer,0,True,
+2025-11-17T14:27:11.995962,2025-11-17,14:27:11,app_opened,App opened at 14:27:11,0,True,
+2025-11-17T14:28:12.251425,2025-11-17,14:28:12,page_changed,From 🏠 Dashboard Overview to ⏱️ Focus Timer,0,True,
+2025-11-17T14:28:53.664346,2025-11-17,14:28:53,page_changed,From ⏱️ Focus Timer to 📅 Schedule Manager,0,True,
+2025-11-17T14:29:45.706717,2025-11-17,14:29:45,schedule_created,Created: ossp,0,True,"{""schedule_id"": ""schedule_0_1763369985.70423"", ""category"": ""Work""}"
+2025-11-17T14:30:18.683691,2025-11-17,14:30:18,notification_sent,Start notification: ossp,0,True,"{""schedule_id"": ""schedule_0_1763369985.70423""}"
+2025-11-17T14:33:53.962001,2025-11-17,14:33:53,app_opened,App opened at 14:33:53,0,True,
+2025-11-17T14:34:18.023783,2025-11-17,14:34:18,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-17T14:34:52.624151,2025-11-17,14:34:52,page_changed,From 📅 Schedule Manager to ⏱️ Focus Timer,0,True,
+2025-11-17T14:35:26.052770,2025-11-17,14:35:26,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": true, ""camera_enabled"": true}"
+2025-11-17T14:35:26.058564,2025-11-17,14:35:26,website_blocking_enabled,Blocked 18 sites,0,True,
+2025-11-17T14:35:28.083630,2025-11-17,14:35:28,camera_monitoring_started,Session: session_1763370328.068951,0,True,
+2025-11-17T14:35:28.087866,2025-11-17,14:35:28,camera_monitoring_started,Session: session_1763370328.068951,0,True,
+2025-11-17T14:40:36.363434,2025-11-17,14:40:36,focus_session_completed,Completed 5 min session,0,True,"{""duration"": 308, ""notes"": ""Focus session"", ""session_id"": ""session_1763370328.068951""}"
+2025-11-17T14:40:37.566733,2025-11-17,14:40:37,camera_monitoring_stopped,"Session: session_1763370328.068951, Captures: 22",0,True,
+2025-11-17T14:40:39.629131,2025-11-17,14:40:39,website_blocking_disabled,Session completed - blocking disabled,0,True,
+2025-11-17T14:40:51.717041,2025-11-17,14:40:51,page_changed,From ⏱️ Focus Timer to 📝 Journal Analyzer,0,True,
+2025-11-17T14:45:05.764909,2025-11-17,14:45:05,page_changed,From 📝 Journal Analyzer to 📈 Productivity Report,0,True,
+2025-11-17T14:45:10.854388,2025-11-17,14:45:10,page_changed,From 📈 Productivity Report to 📊 Analytics & Insights,0,True,
+2025-11-17T14:46:13.751877,2025-11-17,14:46:13,page_changed,From 📊 Analytics & Insights to 📈 Productivity Report,0,True,
+2025-11-17T22:32:52.385532,2025-11-17,22:32:52,app_opened,App opened at 22:32:52,0,True,
+2025-11-17T22:32:56.432990,2025-11-17,22:32:56,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-17T22:38:58.639683,2025-11-17,22:38:58,app_opened,App opened at 22:38:58,0,True,
+2025-11-17T22:39:07.618000,2025-11-17,22:39:07,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-17T22:39:18.701852,2025-11-17,22:39:18,schedule_created,Created: ossp,0,True,"{""schedule_id"": ""schedule_0_1763399358.698569"", ""category"": ""Work""}"
+2025-11-17T22:39:30.439010,2025-11-17,22:39:30,notification_sent,5min warning: ossp,0,True,"{""schedule_id"": ""schedule_0_1763399358.698569""}"
+2025-11-17T22:42:17.903146,2025-11-17,22:42:17,schedule_completed,Completed: ossp,0,True,
+2025-11-17T22:47:24.179069,2025-11-17,22:47:24,app_opened,App opened at 22:47:24,0,True,
+2025-11-17T22:47:29.404551,2025-11-17,22:47:29,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-17T23:47:04.039508,2025-11-17,23:47:04,app_opened,App opened at 23:47:04,0,True,
+2025-11-17T23:47:10.291437,2025-11-17,23:47:10,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-17T23:47:40.439923,2025-11-17,23:47:40,schedule_created,Created: gvh,0,True,"{""schedule_id"": ""schedule_0_1763403460.437645"", ""category"": ""Work""}"
+2025-11-17T23:48:13.548834,2025-11-17,23:48:13,schedule_missed,Missed >10min: gvh,0,True,"{""schedule_id"": ""schedule_0_1763403460.437645"", ""time_missed"": 1428}"
+2025-11-17T23:48:14.161291,2025-11-17,23:48:14,blocking_enabled_by_schedule,Auto-blocked for: gvh,0,True,"{""schedule_id"": ""schedule_0_1763403460.437645"", ""sites_blocked"": 18}"
+2025-11-18T00:14:32.892252,2025-11-18,00:14:32,app_opened,App opened at 00:14:32,0,True,
+2025-11-18T00:14:37.708899,2025-11-18,00:14:37,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-18T00:14:49.991084,2025-11-18,00:14:49,schedule_created,Created: nhj,0,True,"{""schedule_id"": ""schedule_0_1763405089.989187"", ""category"": ""Work""}"
+2025-11-18T00:15:11.796182,2025-11-18,00:15:11,notification_sent,Start notification: nhj,0,True,"{""schedule_id"": ""schedule_0_1763405089.989187""}"
+2025-11-18T00:15:20.293253,2025-11-18,00:15:20,schedule_started,Started: nhj,0,True,"{""schedule_id"": ""schedule_0_1763405089.989187""}"
+2025-11-18T00:27:56.923337,2025-11-18,00:27:56,app_opened,App opened at 00:27:56,0,True,
+2025-11-18T00:28:02.055734,2025-11-18,00:28:02,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-18T00:28:10.123635,2025-11-18,00:28:10,schedule_created,Created: nk,0,True,"{""schedule_id"": ""schedule_0_1763405890.12185"", ""category"": ""Work""}"
+2025-11-18T07:33:16.450930,2025-11-18,07:33:16,app_opened,App opened at 07:33:16,0,True,
+2025-11-19T00:52:03.947338,2025-11-19,00:52:03,app_opened,App opened at 00:52:03,0,True,
+2025-11-19T00:52:15.770021,2025-11-19,00:52:15,page_changed,From 🏠 Dashboard Overview to 👤 My Profile,0,True,
+2025-11-19T00:53:12.282777,2025-11-19,00:53:12,page_changed,From 👤 My Profile to 🏠 Dashboard Overview,0,True,
+2025-11-19T00:53:20.579624,2025-11-19,00:53:20,page_changed,From 🏠 Dashboard Overview to 💬 Talk to Perry,0,True,
+2025-11-19T00:53:30.212157,2025-11-19,00:53:30,chat_message_sent,"User sent message to Perry: hi
+...",0,True,
+2025-11-19T00:53:33.348562,2025-11-19,00:53:33,chat_message_received,Perry responded: I'm here to listen and support you. Can you tell m...,0,True,
+2025-11-19T00:53:42.313947,2025-11-19,00:53:42,chat_message_sent,"User sent message to Perry: hi
+...",0,True,
+2025-11-19T00:53:42.328077,2025-11-19,00:53:42,chat_message_received,Perry responded: I'm here to listen and support you. Can you tell m...,0,True,
+2025-11-19T00:54:52.707251,2025-11-19,00:54:52,chat_message_sent,User sent message to Perry: Tomorrow is my lab test of operating system and i ...,0,True,
+2025-11-19T00:54:52.719303,2025-11-19,00:54:52,chat_message_received,Perry responded: I understand that anxiety can feel overwhelming. R...,0,True,
+2025-11-19T00:55:43.983581,2025-11-19,00:55:43,page_changed,From 💬 Talk to Perry to 📝 Journal Analyzer,0,True,
+2025-11-19T00:55:55.526883,2025-11-19,00:55:55,page_changed,From 📝 Journal Analyzer to ⏱️ Focus Timer,0,True,
+2025-11-19T00:55:59.243867,2025-11-19,00:55:59,page_changed,From ⏱️ Focus Timer to 📝 Journal Analyzer,0,True,
+2025-11-19T00:56:05.645982,2025-11-19,00:56:05,page_changed,From 📝 Journal Analyzer to ⏱️ Focus Timer,0,True,
+2025-11-19T00:56:15.721766,2025-11-19,00:56:15,page_changed,From ⏱️ Focus Timer to 📝 Journal Analyzer,0,True,
+2025-11-19T00:56:48.237998,2025-11-19,00:56:48,page_changed,From 📝 Journal Analyzer to 📅 Schedule Manager,0,True,
+2025-11-19T00:57:02.445266,2025-11-19,00:57:02,schedule_created,Created: ossp,0,True,"{""schedule_id"": ""schedule_0_1763494022.440404"", ""category"": ""Work""}"
+2025-11-19T01:10:47.962229,2025-11-19,01:10:47,app_opened,App opened at 01:10:47,0,True,
+2025-11-19T01:11:05.852558,2025-11-19,01:11:05,page_changed,From 🏠 Dashboard Overview to 💬 Talk to Perry,0,True,
+2025-11-19T01:11:13.767713,2025-11-19,01:11:13,page_changed,From 💬 Talk to Perry to 📝 Journal Analyzer,0,True,
+2025-11-19T01:11:23.426261,2025-11-19,01:11:23,page_changed,From 📝 Journal Analyzer to 📅 Schedule Manager,0,True,
+2025-11-19T01:15:20.701272,2025-11-19,01:15:20,notification_sent,Start notification: ossp,0,True,"{""schedule_id"": ""schedule_0_1763494896.490208""}"
+2025-11-19T01:15:20.710099,2025-11-19,01:15:20,page_changed,From 📅 Schedule Manager to 🏠 Dashboard Overview,0,True,
+2025-11-19T01:15:29.472261,2025-11-19,01:15:29,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-19T02:28:55.933444,2025-11-19,02:28:55,app_opened,App opened at 02:28:55,0,True,
+2025-11-19T02:29:15.747683,2025-11-19,02:29:15,page_changed,From 🏠 Dashboard Overview to 👤 My Profile,0,True,
+2025-11-19T02:29:19.080920,2025-11-19,02:29:19,page_changed,From 👤 My Profile to 🏠 Dashboard Overview,0,True,
+2025-11-19T02:31:45.716344,2025-11-19,02:31:45,app_opened,App opened at 02:31:45,0,True,
+2025-11-19T02:31:57.976819,2025-11-19,02:31:57,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-19T02:32:56.789488,2025-11-19,02:32:56,page_changed,From 📅 Schedule Manager to ⏱️ Focus Timer,0,True,
+2025-11-19T02:33:05.699087,2025-11-19,02:33:05,page_changed,From ⏱️ Focus Timer to 📅 Schedule Manager,0,True,
+2025-11-19T02:33:06.538699,2025-11-19,02:33:06,page_changed,From 📅 Schedule Manager to ⏱️ Focus Timer,0,True,
+2025-11-19T02:37:16.993408,2025-11-19,02:37:16,app_opened,App opened at 02:37:16,0,True,
+2025-11-19T02:37:24.469330,2025-11-19,02:37:24,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-19T06:07:19.129829,2025-11-19,06:07:19,app_opened,App opened at 06:07:19,0,True,
+2025-11-19T06:07:27.430295,2025-11-19,06:07:27,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-19T06:12:50.500852,2025-11-19,06:12:50,app_opened,App opened at 06:12:50,0,True,
+2025-11-19T06:12:54.557633,2025-11-19,06:12:54,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-19T06:21:04.714709,2025-11-19,06:21:04,app_opened,App opened at 06:21:04,0,True,
+2025-11-19T06:23:40.358907,2025-11-19,06:23:40,app_opened,App opened at 06:23:40,0,True,
+2025-11-19T06:23:46.461240,2025-11-19,06:23:46,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-19T06:34:29.029749,2025-11-19,06:34:29,app_opened,App opened at 06:34:29,0,True,
+2025-11-19T06:34:36.895293,2025-11-19,06:34:36,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-19T06:37:03.716657,2025-11-19,06:37:03,app_opened,App opened at 06:37:03,0,True,
+2025-11-19T06:37:22.039783,2025-11-19,06:37:22,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-19T06:57:08.415386,2025-11-19,06:57:08,app_opened,App opened at 06:57:08,0,True,
+2025-11-19T06:57:16.600237,2025-11-19,06:57:16,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-19T07:12:12.382177,2025-11-19,07:12:12,app_opened,App opened at 07:12:12,0,True,
+2025-11-19T07:12:20.341896,2025-11-19,07:12:20,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-11-19T07:27:48.766021,2025-11-19,07:27:48,page_changed,From 📅 Schedule Manager to ⏱️ Focus Timer,0,True,
+2025-11-19T07:27:58.729154,2025-11-19,07:27:58,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": true, ""camera_enabled"": true}"
+2025-11-19T07:27:58.801276,2025-11-19,07:27:58,website_blocking_enabled,Blocked 18 sites,0,True,
+2025-11-19T07:28:24.832235,2025-11-19,07:28:24,focus_session_completed,Completed 0 min session,0,True,"{""duration"": 24, ""notes"": ""Focus session"", ""session_id"": ""session_1763517480.823612""}"
+2025-11-19T07:28:24.874334,2025-11-19,07:28:24,website_blocking_disabled,Session completed - blocking disabled,0,True,
+2025-11-19T07:28:41.548800,2025-11-19,07:28:41,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": true, ""camera_enabled"": true}"
+2025-11-19T07:28:41.600588,2025-11-19,07:28:41,website_blocking_enabled,Blocked 18 sites,0,True,
+2025-11-19T07:29:17.853042,2025-11-19,07:29:17,focus_session_completed,Completed 0 min session,0,True,"{""duration"": 34, ""notes"": ""Focus session"", ""session_id"": ""session_1763517523.612487""}"
+2025-11-19T07:29:17.893740,2025-11-19,07:29:17,website_blocking_disabled,Session completed - blocking disabled,0,True,
+2025-11-19T07:29:24.087096,2025-11-19,07:29:24,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": true, ""camera_enabled"": true}"
+2025-11-19T07:29:24.125194,2025-11-19,07:29:24,website_blocking_enabled,Blocked 18 sites,0,True,
+2025-11-19T07:29:32.905604,2025-11-19,07:29:32,focus_session_completed,Completed 0 min session,0,True,"{""duration"": 6, ""notes"": ""Focus session"", ""session_id"": ""session_1763517566.139105""}"
+2025-11-19T07:29:32.947151,2025-11-19,07:29:32,website_blocking_disabled,Session completed - blocking disabled,0,True,
+2025-11-19T07:29:37.792697,2025-11-19,07:29:37,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": true, ""camera_enabled"": true}"
+2025-11-19T07:29:37.831539,2025-11-19,07:29:37,website_blocking_enabled,Blocked 18 sites,0,True,
+2025-11-19T07:29:47.020137,2025-11-19,07:29:47,focus_session_completed,Completed 0 min session,0,True,"{""duration"": 7, ""notes"": ""Focus session"", ""session_id"": ""session_1763517579.844674""}"
+2025-11-19T07:29:47.071537,2025-11-19,07:29:47,website_blocking_disabled,Session completed - blocking disabled,0,True,
+2025-11-19T07:29:51.771790,2025-11-19,07:29:51,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": true, ""camera_enabled"": true}"
+2025-11-19T07:29:51.832313,2025-11-19,07:29:51,website_blocking_enabled,Blocked 18 sites,0,True,
+2025-11-19T07:35:12.964464,2025-11-19,07:35:12,focus_session_completed,Completed 5 min session,0,True,"{""duration"": 319, ""notes"": ""Focus session"", ""session_id"": ""session_1763517593.847409""}"
+2025-11-19T07:35:13.022273,2025-11-19,07:35:13,website_blocking_disabled,Session completed - blocking disabled,0,True,
+2025-12-17T22:30:22.501558,2025-12-17,22:30:22,app_opened,App opened at 22:30:22,0,True,
+2025-12-17T22:30:39.290893,2025-12-17,22:30:39,page_changed,From 🏠 Dashboard Overview to 👤 My Profile,0,True,
+2025-12-17T22:30:53.229440,2025-12-17,22:30:53,page_changed,From 👤 My Profile to 📝 Journal Analyzer,0,True,
+2025-12-17T22:31:03.571371,2025-12-17,22:31:03,page_changed,From 📝 Journal Analyzer to ⏱️ Focus Timer,0,True,
+2025-12-26T22:50:28.212424,2025-12-26,22:50:28,app_opened,App opened at 22:50:28,0,True,
+2025-12-26T22:50:41.465149,2025-12-26,22:50:41,page_changed,From 🏠 Dashboard Overview to 👤 My Profile,0,True,
+2025-12-26T22:50:52.353484,2025-12-26,22:50:52,page_changed,From 👤 My Profile to ⏱️ Focus Timer,0,True,
+2025-12-26T22:51:12.904687,2025-12-26,22:51:12,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": true, ""camera_enabled"": true}"
+2025-12-26T22:51:12.983011,2025-12-26,22:51:12,website_blocking_enabled,Blocked 18 sites,0,True,
+2025-12-26T22:51:50.586683,2025-12-26,22:51:50,focus_session_completed,Completed 0 min session,0,True,"{""duration"": 35, ""notes"": ""Focus session"", ""session_id"": ""session_1766769674.998089""}"
+2025-12-26T22:51:50.648653,2025-12-26,22:51:50,website_blocking_disabled,Session completed - blocking disabled,0,True,
+2025-12-26T22:52:08.119551,2025-12-26,22:52:08,page_changed,From ⏱️ Focus Timer to 📝 Journal Analyzer,0,True,
+2025-12-26T22:54:46.746149,2025-12-26,22:54:46,page_changed,From 📝 Journal Analyzer to 📅 Schedule Manager,0,True,
+2025-12-26T22:54:53.763224,2025-12-26,22:54:53,page_changed,From 📅 Schedule Manager to 💬 Talk to Perry,0,True,
+2025-12-26T22:56:00.201967,2025-12-26,22:56:00,chat_message_sent,User sent message to Perry: I’ve been feeling really anxious lately. My mind k...,0,True,
+2025-12-26T22:56:20.229527,2025-12-26,22:56:20,chat_message_received,"Perry responded: Hi, I'm Perry, your mental health companion. I'm s...",0,True,
+2025-12-26T22:56:50.894736,2025-12-26,22:56:50,page_changed,From 💬 Talk to Perry to 🏠 Dashboard Overview,0,True,
+2025-12-26T22:57:04.977777,2025-12-26,22:57:04,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
+2025-12-26T22:57:39.715512,2025-12-26,22:57:39,page_changed,From 📅 Schedule Manager to 📊 Analytics & Insights,0,True,
+2025-12-26T22:59:21.707765,2025-12-26,22:59:21,page_changed,From 📊 Analytics & Insights to 🏠 Dashboard Overview,0,True,
+2025-12-26T22:59:37.580108,2025-12-26,22:59:37,page_changed,From 🏠 Dashboard Overview to 👤 My Profile,0,True,
+2025-12-26T22:59:51.979780,2025-12-26,22:59:51,page_changed,From 👤 My Profile to 💬 Talk to Perry,0,True,
+2025-12-26T23:00:02.596497,2025-12-26,23:00:02,page_changed,From 💬 Talk to Perry to 📝 Journal Analyzer,0,True,
+2025-12-26T23:00:38.424082,2025-12-26,23:00:38,page_changed,From 📝 Journal Analyzer to ⏱️ Focus Timer,0,True,
+2025-12-26T23:00:49.378503,2025-12-26,23:00:49,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": true, ""camera_enabled"": true}"
+2025-12-26T23:00:49.435292,2025-12-26,23:00:49,website_blocking_enabled,Blocked 18 sites,0,True,
+2025-12-26T23:01:44.832307,2025-12-26,23:01:44,focus_session_completed,Completed 0 min session,0,True,"{""duration"": 53, ""notes"": ""Focus session"", ""session_id"": ""session_1766770251.449408""}"
+2025-12-26T23:01:45.517822,2025-12-26,23:01:45,website_blocking_disabled,Session completed - blocking disabled,0,True,
+2025-12-26T23:02:05.688540,2025-12-26,23:02:05,page_changed,From ⏱️ Focus Timer to 📅 Schedule Manager,0,True,
+2025-12-26T23:04:59.489527,2025-12-26,23:04:59,page_changed,From 📅 Schedule Manager to 📊 Analytics & Insights,0,True,
+2025-12-26T23:05:04.963732,2025-12-26,23:05:04,page_changed,From 📊 Analytics & Insights to 📝 Journal Analyzer,0,True,
+2025-12-26T23:05:10.535629,2025-12-26,23:05:10,page_changed,From 📝 Journal Analyzer to 🏠 Dashboard Overview,0,True,
+2025-12-26T23:08:40.365111,2025-12-26,23:08:40,page_changed,From 🏠 Dashboard Overview to 👤 My Profile,0,True,
+2025-12-26T23:08:50.312930,2025-12-26,23:08:50,page_changed,From 👤 My Profile to 💬 Talk to Perry,0,True,
+2025-12-26T23:09:06.106552,2025-12-26,23:09:06,page_changed,From 💬 Talk to Perry to 📝 Journal Analyzer,0,True,
+2025-12-26T23:09:30.503602,2025-12-26,23:09:30,page_changed,From 📝 Journal Analyzer to ⏱️ Focus Timer,0,True,
+2025-12-26T23:09:41.847610,2025-12-26,23:09:41,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": true, ""camera_enabled"": true}"
+2025-12-26T23:09:41.896899,2025-12-26,23:09:41,website_blocking_enabled,Blocked 18 sites,0,True,
+2025-12-26T23:10:18.551816,2025-12-26,23:10:18,focus_session_completed,Completed 0 min session,0,True,"{""duration"": 34, ""notes"": ""Focus session"", ""session_id"": ""session_1766770783.911196""}"
+2025-12-26T23:10:18.613343,2025-12-26,23:10:18,website_blocking_disabled,Session completed - blocking disabled,0,True,
+2025-12-26T23:10:45.344112,2025-12-26,23:10:45,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": true, ""camera_enabled"": true}"
+2025-12-26T23:10:45.387428,2025-12-26,23:10:45,website_blocking_enabled,Blocked 18 sites,0,True,
+2025-12-26T23:10:53.743106,2025-12-26,23:10:53,focus_session_completed,Completed 0 min session,0,True,"{""duration"": 6, ""notes"": ""Focus session"", ""session_id"": ""session_1766770847.397821""}"
+2025-12-26T23:10:53.786848,2025-12-26,23:10:53,website_blocking_disabled,Session completed - blocking disabled,0,True,
+2025-12-26T23:11:21.076131,2025-12-26,23:11:21,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": true, ""camera_enabled"": true}"
+2025-12-26T23:11:21.123265,2025-12-26,23:11:21,website_blocking_enabled,Blocked 18 sites,0,True,
+2025-12-26T23:12:56.110842,2025-12-26,23:12:56,focus_session_completed,Completed 1 min session,0,True,"{""duration"": 92, ""notes"": ""Focus session"", ""session_id"": ""session_1766770883.136429""}"
+2025-12-26T23:12:56.750091,2025-12-26,23:12:56,website_blocking_disabled,Session completed - blocking disabled,0,True,
+2025-12-26T23:13:10.921225,2025-12-26,23:13:10,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": true, ""camera_enabled"": true}"
+2025-12-26T23:13:10.956928,2025-12-26,23:13:10,website_blocking_enabled,Blocked 18 sites,0,True,
+2025-12-26T23:32:22.194854,2025-12-26,23:32:22,app_opened,App opened at 23:32:22,0,True,
+2025-12-26T23:32:28.953523,2025-12-26,23:32:28,page_changed,From 🏠 Dashboard Overview to ⏱️ Focus Timer,0,True,
+2025-12-26T23:33:09.224558,2025-12-26,23:33:09,app_opened,App opened at 23:33:09,0,True,
+2025-12-26T23:33:16.489946,2025-12-26,23:33:16,page_changed,From 🏠 Dashboard Overview to ⏱️ Focus Timer,0,True,
+2025-12-26T23:33:25.554192,2025-12-26,23:33:25,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": true, ""camera_enabled"": true}"
+2025-12-26T23:33:25.561301,2025-12-26,23:33:25,website_blocking_enabled,Blocked 18 sites,0,True,
+2025-12-26T23:33:27.578935,2025-12-26,23:33:27,camera_monitoring_started,Session: session_1766772207.570687,0,True,
+2025-12-26T23:33:27.581761,2025-12-26,23:33:27,camera_monitoring_started,Session: session_1766772207.570687,0,True,
+2025-12-26T23:34:24.893402,2025-12-26,23:34:24,focus_session_completed,Completed 0 min session,0,True,"{""duration"": 57, ""notes"": ""Focus session"", ""session_id"": ""session_1766772207.570687""}"
+2025-12-26T23:34:27.308365,2025-12-26,23:34:27,camera_monitoring_stopped,"Session: session_1766772207.570687, Captures: 6",0,True,
+2025-12-26T23:34:29.386470,2025-12-26,23:34:29,website_blocking_disabled,Session completed - blocking disabled,0,True,
+2025-12-26T23:34:49.012949,2025-12-26,23:34:49,page_changed,From ⏱️ Focus Timer to 📝 Journal Analyzer,0,True,
+2025-12-26T23:35:21.960851,2025-12-26,23:35:21,page_changed,From 📝 Journal Analyzer to 👤 My Profile,0,True,
+2025-12-26T23:36:21.661263,2025-12-26,23:36:21,page_changed,From 👤 My Profile to 🏠 Dashboard Overview,0,True,
+2025-12-26T23:36:34.392939,2025-12-26,23:36:34,page_changed,From 🏠 Dashboard Overview to 💬 Talk to Perry,0,True,
+2025-12-26T23:36:43.639887,2025-12-26,23:36:43,page_changed,From 💬 Talk to Perry to 📝 Journal Analyzer,0,True,
+2025-12-26T23:37:05.300422,2025-12-26,23:37:05,page_changed,From 📝 Journal Analyzer to ⏱️ Focus Timer,0,True,
+2025-12-26T23:37:20.619965,2025-12-26,23:37:20,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": true, ""camera_enabled"": true}"
+2025-12-26T23:37:20.699642,2025-12-26,23:37:20,website_blocking_enabled,Blocked 18 sites,0,True,
+2025-12-26T23:37:22.753964,2025-12-26,23:37:22,camera_monitoring_started,Session: session_1766772442.726315,0,True,
+2025-12-26T23:37:22.758665,2025-12-26,23:37:22,camera_monitoring_started,Session: session_1766772442.726315,0,True,
+2025-12-26T23:38:04.426520,2025-12-26,23:38:04,page_changed,From ⏱️ Focus Timer to 📅 Schedule Manager,0,True,
+2025-12-26T23:39:51.859791,2025-12-26,23:39:51,page_changed,From 📅 Schedule Manager to ⏱️ Focus Timer,0,True,
+2025-12-26T23:40:12.434013,2025-12-26,23:40:12,page_changed,From ⏱️ Focus Timer to 📊 Analytics & Insights,0,True,
+2025-12-26T23:40:32.976540,2025-12-26,23:40:32,page_changed,From 📊 Analytics & Insights to 📅 Schedule Manager,0,True,
+2025-12-26T23:40:35.608834,2025-12-26,23:40:35,page_changed,From 📅 Schedule Manager to ⏱️ Focus Timer,0,True,
+2025-12-26T23:40:41.537441,2025-12-26,23:40:41,page_changed,From ⏱️ Focus Timer to 📈 Productivity Report,0,True,
+2025-12-26T23:41:32.609284,2025-12-26,23:41:32,page_changed,From 📈 Productivity Report to ⏱️ Focus Timer,0,True,
+2025-12-26T23:41:36.175016,2025-12-26,23:41:36,page_changed,From ⏱️ Focus Timer to 📈 Productivity Report,0,True,
+2025-12-26T23:41:44.053118,2025-12-26,23:41:44,page_changed,From 📈 Productivity Report to ⏱️ Focus Timer,0,True,
+2025-12-26T23:41:45.450321,2025-12-26,23:41:45,page_changed,From ⏱️ Focus Timer to 📈 Productivity Report,0,True,
+2025-12-26T23:42:00.247698,2025-12-26,23:42:00,page_changed,From 📈 Productivity Report to ⏱️ Focus Timer,0,True,
+2025-12-27T11:01:36.232944,2025-12-27,11:01:36,app_opened,App opened at 11:01:36,0,True,
+2025-12-27T11:06:35.478923,2025-12-27,11:06:35,page_changed,From 🏠 Dashboard Overview to 📝 Journal Analyzer,0,True,
+2025-12-27T11:10:09.168309,2025-12-27,11:10:09,page_changed,From 📝 Journal Analyzer to 💬 Talk to Perry,0,True,
+2025-12-27T11:10:51.086937,2025-12-27,11:10:51,chat_message_sent,"User sent message to Perry: I feel kind of low today. Nothing bad happened, bu...",0,True,
+2025-12-27T11:11:01.804904,2025-12-27,11:11:01,chat_message_received,"Perry responded: Hi, I'm Perry, your mental health companion. I'm h...",0,True,
+2025-12-27T11:12:42.445424,2025-12-27,11:12:42,page_changed,From 💬 Talk to Perry to ⏱️ Focus Timer,0,True,
+2025-12-27T11:12:47.468779,2025-12-27,11:12:47,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": false, ""camera_enabled"": false}"
+2025-12-27T11:13:01.498515,2025-12-27,11:13:01,focus_session_cancelled,Cancelled after 0 min,0,True,"{""duration"": 14, ""notes"": ""Focus session""}"
+2025-12-27T11:13:08.646827,2025-12-27,11:13:08,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": true, ""camera_enabled"": true}"
+2025-12-27T11:13:08.650166,2025-12-27,11:13:08,website_blocking_enabled,Blocked 18 sites,0,True,
+2025-12-27T11:13:10.676804,2025-12-27,11:13:10,camera_monitoring_started,Session: session_1766814190.657058,0,True,
+2025-12-27T11:13:10.678339,2025-12-27,11:13:10,camera_monitoring_started,Session: session_1766814190.657058,0,True,
+2025-12-27T11:20:19.981508,2025-12-27,11:20:19,focus_session_completed,Completed 7 min session,0,True,"{""duration"": 429, ""notes"": ""Focus session"", ""session_id"": ""session_1766814190.657058""}"
+2025-12-27T11:20:22.655635,2025-12-27,11:20:22,camera_monitoring_stopped,"Session: session_1766814190.657058, Captures: 15",0,True,
+2025-12-27T11:20:24.698429,2025-12-27,11:20:24,website_blocking_disabled,Session completed - blocking disabled,0,True,
+2025-12-27T11:20:41.127377,2025-12-27,11:20:41,page_changed,From ⏱️ Focus Timer to 📅 Schedule Manager,0,True,
+2025-12-27T11:20:51.740085,2025-12-27,11:20:51,page_changed,From 📅 Schedule Manager to 🏠 Dashboard Overview,0,True,
+2025-12-27T11:27:32.347077,2025-12-27,11:27:32,app_opened,App opened at 11:27:32,0,True,
+2025-12-27T11:27:39.918683,2025-12-27,11:27:39,page_changed,From 🏠 Dashboard Overview to 👤 My Profile,0,True,
+2025-12-27T11:27:48.034634,2025-12-27,11:27:48,page_changed,From 👤 My Profile to 💬 Talk to Perry,0,True,
+2025-12-27T11:27:52.958741,2025-12-27,11:27:52,chat_message_sent,User sent message to Perry: There’s so much going on in my life right now that...,0,True,
+2025-12-27T11:28:00.701439,2025-12-27,11:28:00,chat_message_received,"Perry responded: Hi, I'm Perry, your mental health companion. I'm h...",0,True,
+2025-12-27T11:28:06.104773,2025-12-27,11:28:06,page_changed,From 💬 Talk to Perry to 📝 Journal Analyzer,0,True,
+2025-12-27T11:28:26.075076,2025-12-27,11:28:26,page_changed,From 📝 Journal Analyzer to ⏱️ Focus Timer,0,True,
+2025-12-27T11:28:35.094547,2025-12-27,11:28:35,focus_session_started,Started 25 min session,0,True,"{""duration_planned"": 25, ""notes"": """", ""blocking_enabled"": true, ""camera_enabled"": true}"
+2025-12-27T11:28:35.128778,2025-12-27,11:28:35,website_blocking_enabled,Blocked 18 sites,0,True,
+2025-12-27T11:28:37.145214,2025-12-27,11:28:37,camera_monitoring_started,Session: session_1766815117.137786,0,True,
+2025-12-27T11:28:37.147439,2025-12-27,11:28:37,camera_monitoring_started,Session: session_1766815117.137786,0,True,
+2025-12-27T11:29:26.997621,2025-12-27,11:29:26,focus_session_completed,Completed 0 min session,0,True,"{""duration"": 49, ""notes"": ""Focus session"", ""session_id"": ""session_1766815117.137786""}"
+2025-12-27T11:29:32.011694,2025-12-27,11:29:32,camera_monitoring_stopped,"Session: session_1766815117.137786, Captures: 6",0,True,
+2025-12-27T11:29:32.963117,2025-12-27,11:29:32,focus_session_completed,Completed 0 min session,0,True,"{""duration"": 55, ""notes"": ""Focus session"", ""session_id"": ""session_1766815117.137786""}"
+2025-12-27T11:29:35.000464,2025-12-27,11:29:35,website_blocking_disabled,Session completed - blocking disabled,0,True,
+2025-12-27T11:29:56.904547,2025-12-27,11:29:56,page_changed,From ⏱️ Focus Timer to 📅 Schedule Manager,0,True,
+2025-12-27T11:30:26.959668,2025-12-27,11:30:26,page_changed,From 📅 Schedule Manager to 📊 Analytics & Insights,0,True,
+2025-12-27T11:30:54.919634,2025-12-27,11:30:54,page_changed,From 📊 Analytics & Insights to 📈 Productivity Report,0,True,
+2025-12-27T11:31:03.543720,2025-12-27,11:31:03,page_changed,From 📈 Productivity Report to 🏠 Dashboard Overview,0,True,
+2025-12-27T11:31:08.327896,2025-12-27,11:31:08,page_changed,From 🏠 Dashboard Overview to 📅 Schedule Manager,0,True,
