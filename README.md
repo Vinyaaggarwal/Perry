@@ -81,13 +81,10 @@ Educational project for personal wellness tracking. For serious mental health co
 
 Screenshots:
 <img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/fc330140-9a7a-442e-9cc2-a4f3bcd977cb" />
-<img width="1892" height="909" alt="image" src="https://github.com/user-attachments/assets/fa2789c5-eead-4d66-9f96-e64d014ca248" />
 <img width="1892" height="909" alt="image" src="https://github.com/user-attachments/assets/9331be4d-b404-4d13-a85a-eda7289a1005" />
-<img width="1913" height="909" alt="image" src="https://github.com/user-attachments/assets/5a4cfdc4-5f03-4923-97a3-7d9b8ef1f3dd" />
 <img width="1913" height="909" alt="image" src="https://github.com/user-attachments/assets/3372df56-030b-48a5-8e61-392603983f2e" />
 <img width="1598" height="912" alt="image" src="https://github.com/user-attachments/assets/d8be997e-6f28-45fa-882d-8e0e43d848ff" />
 <img width="1918" height="914" alt="image" src="https://github.com/user-attachments/assets/f833cea2-56af-49be-ba00-e63a33de251c" />
-<img width="1918" height="914" alt="image" src="https://github.com/user-attachments/assets/4fc8ac69-263c-4edf-8624-7417a5681dc2" />
 
 
 
